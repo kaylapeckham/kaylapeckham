@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kaylapeckham
 - 👀 I’m interested in data, pure and applied math, and coding!
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on future projects, including iOS development.
+- 🌱 I’m currently learning python and some iOS development.
+- 💞️ I’m looking to collaborate on future projects.
 - 📫 How to reach me by email: kayla.peckham@hotmail.com
 
 <!---
